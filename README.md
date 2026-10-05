@@ -20,8 +20,8 @@ Proyek analisis data e-commerce ini dirancang untuk mengevaluasi performa penjua
 ---
 
 ## 🔗 Project Links
-- 📊 **[Executive Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1p3CFWWnbRE3VRV9waFLUBIrlKywYoDB2XAGGC4HoW3g/edit)**
-- 📓 **[Google Colab Notebook](https://colab.research.google.com/)**
+- 📊 **[Executive Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1p3CFWWnbRE3VRV9waFLUBIrIKywYoDB2XAGGC4HoWgY/edit?usp=sharing)**
+- 📓 **[Google Colab Notebook](https://colab.research.google.com/drive/1FQHbKK6zMaL9CkDB9U1Fn3aizdSxSsPT?usp=sharing)**
 
 ---
 *Created by [Vikri A. Haikal] as a Data Analytics Portfolio for Haquhara application.*
